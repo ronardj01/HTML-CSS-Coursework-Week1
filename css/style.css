@@ -15,9 +15,10 @@
  }
 
  img {
-   width: 200px;
-   float:left; 
-  }
+   width: 150px;
+   display:block;
+   margin:auto;
+ }
  
  button {
     border-radius: 12px;
@@ -30,4 +31,11 @@
  }
 
  /*Encabezado*/
+ h1, h2, h3 {
+    color: darkblue;
+    margin-bottom: 40px;
+    text-align: center;
+ }
+
+
 
