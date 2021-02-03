@@ -14,6 +14,10 @@
   background: lightgray;
  }
 
+ p {
+     text-align: justify;
+ }
+
  img {
   width: 150px;
   display:block;
@@ -51,6 +55,7 @@
   width: 400px;
   float:right;
   margin-right: 32px;
+  margin-left: 32px;
 }
 
 header p:only-of-type {
@@ -84,4 +89,13 @@ li a{
 li a:hover {
   color:lightseagreen;  
 }
+
+/*Sección de la Introducción*/
+
+.introduction {
+    margin: 35px 20px;
+    font-size:larger;
+}
+
+/*Seccion de los articulos*/
 
