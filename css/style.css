@@ -58,5 +58,16 @@ header p:only-of-type {
     margin: 0px 14px;
 }
 
+/*Barra de navegacion superior*/
+
+ul {
+  color: #ffebcd;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-transform: uppercase;
+  font-weight: bold;
+}
 
 
