@@ -58,7 +58,7 @@
   margin-left: 32px;
 }
 
-header p:only-of-type {
+header blockquote:only-of-type {
   color:#86b1ff;
   margin: 0px 14px;
 }
