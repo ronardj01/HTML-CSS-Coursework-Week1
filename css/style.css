@@ -122,3 +122,19 @@ article:first-child{
     padding: 5px;
 }
 
+.pescados button:hover {
+    background: #49ffa4;
+    color:red;
+}
+
+.carnes {
+    background:orange;
+    overflow: hidden;
+    margin:0 14px;
+    border-bottom: 3px solid black;
+    padding: 5px;
+}
+
+.carnes button:hover {
+    background:tomato;
+}
