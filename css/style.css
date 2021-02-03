@@ -9,7 +9,7 @@
 
  /*Estilo básico*/
 
- * {
+ html {
      font-family: Arial, Helvetica, sans-serif;
      background: lightgray;
  }
@@ -37,5 +37,20 @@
     text-align: center;
  }
 
+ header  {
+    background: #0b1531;
+ }
+
+ header h1 {
+     color:blanchedalmond;
+     font-size: 4em;
+     max-width: 450px;
+     margin-top: 0;
+ }
+header img {
+    width: 400px;
+    float:right;
+    margin-right: 32px;
+}
 
 
