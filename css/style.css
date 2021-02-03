@@ -41,7 +41,7 @@
   text-align: center;
  }
 
- header  {
+ header, footer  {
   background: #0b1531;
  }
 
@@ -138,3 +138,17 @@ article:first-child{
 .carnes button:hover {
     background:tomato;
 }
+
+/*Footer*/
+
+footer {
+    overflow: hidden;
+    margin:0 14px;
+    color: #ffebcd;
+}
+
+footer p {
+    text-align: center;
+    font-size: smaller;
+}
+
